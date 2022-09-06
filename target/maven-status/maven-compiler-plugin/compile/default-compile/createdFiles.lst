@@ -1,0 +1,4 @@
+br\edu\ifsul\dao\EstadoDAO.class
+br\edu\ifsul\controle\ControleEstado.class
+br\edu\ifsul\util\Util.class
+br\edu\ifsul\dao\DAOGenerico.class
